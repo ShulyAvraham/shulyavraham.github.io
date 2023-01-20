@@ -9,7 +9,7 @@ So this is me 20 years ago... but one of my favorite pics :-)
 * [GitLab](https://gitlab.com/ShulyAvraham)
 
 ## My blog
-[My blog]([https://dev.to/shulyavraham)
+[My blog](https://dev.to/shulyavraham)
 
 ## OSDC
 I am currently attending the [Open Source Development Course](https://osdc.code-maven.com/) led by [Gabor Szabo](https://dev.to/szabgab)
