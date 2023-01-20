@@ -5,7 +5,9 @@
 * [GitLab](https://gitlab.com/ShulyAvraham)
 
 ## OSDC
-I am currently attending the [Open Source Development Course](https://osdc.code-maven.com/) led by Gabor Szabo
+I am currently attending the [Open Source Development Course](https://osdc.code-maven.com/) led by [Gabor Szabo](https://dev.to/szabgab)
+
+
 
 
 
