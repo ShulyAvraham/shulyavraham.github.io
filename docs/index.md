@@ -15,7 +15,15 @@ So this is me 20 years ago... but one of my favorite pics :-)
 ## OSDC
 I am currently attending the [Open Source Development Course](https://osdc.code-maven.com/) led by [Gabor Szabo](https://dev.to/szabgab)
 
-
+### My friends in the course (a list I copied from @anatlavitzkovitz)
+@anatlavitzkovitz
+@kobkob2018
+@adieg
+@yoadk
+@silent_mobius
+@dshisher
+@anatlavitzkovitz
+@avivyunker
 
 
 
