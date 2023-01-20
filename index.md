@@ -1,5 +1,5 @@
 # Hello World
-[About me](about.html)
+[About me](about)
 * Apple
 * Banana is a **fruit**
 
