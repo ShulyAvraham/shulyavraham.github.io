@@ -10,7 +10,7 @@ So this is me 20 years ago... but one of my favorite pics :-)
 
 ## My blogs
 * [My blog](https://dev.to/shulyavraham) on dev.to 
-* The [blog](https://dev.to/shulyavraham/run-the-osdc-website-locally-17k1) I posted about the [OSDC](https://osdc.code-maven.com/) session which made me create this website
+* The [blog]([https://dev.to/shulyavraham/run-the-osdc-website-locally-17k1](https://dev.to/shulyavraham/osdc-2-a-website-for-you-and-your-projects-on-github-1km9) I posted about the [OSDC](https://osdc.code-maven.com/) session which made me create this website
 
 ## OSDC
 I am currently attending the [Open Source Development Course](https://osdc.code-maven.com/) led by [Gabor Szabo](https://dev.to/szabgab)
