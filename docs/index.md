@@ -9,7 +9,7 @@ So this is me 20 years ago... but one of my favorite pics :-)
 * [GitLab](https://gitlab.com/ShulyAvraham)
 
 ## My blogs
-* [My blog on dev.to](https://dev.to/shulyavraham)
+* [My blog](https://dev.to/shulyavraham) on dev.to 
 * The [blog](https://dev.to/shulyavraham/run-the-osdc-website-locally-17k1) I posted about the [OSDC](https://osdc.code-maven.com/) session which made me create this website
 
 ## OSDC
