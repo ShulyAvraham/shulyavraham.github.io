@@ -1,4 +1,6 @@
-# Professional Experience
+# Shuly Avraham's CV
+
+## Professional Experience
 
 ### HAZERA SEEDS, R&D DIVISION 	Mivhor Farm, ISRAEL 	2012–Present
 #### Scientific computing project leader
@@ -32,7 +34,7 @@ Led development of finance & inventory IS for Israeli Ministry of Defense and mi
 #### Software and database designer / developer
 Developed financial & budgeting information systems and databases of the Israeli Navy.
 
-# Education
+## Education
 
 ### Executive MBA in Financial Engineering and Banking
 The Hebrew University 	Jerusalem, ISRAEL    2011-2012
@@ -47,13 +49,13 @@ Polytechnic University (NYU)	New York, NY, USA 	1997–2000
 ### Software development & programming course		
 MAMRAM, Center for Comp. & Information Systems Professions, Israeli Defense Forces 1992-1993
 
-# Technical expertise
+## Technical expertise
 
 * Various computer languages, e.g. Python, Perl, Java, C, C++, etc., currently developing mostly in Python for backend and web based languages such as HTML and JavaScript (React, Riot, etc.) for front end. 
 * Database management of several systems, MongoDB, MySQL, Postgress, Oracle, SQLServer, MS Access etc. 
 * DevOps, Linux, shell scripting, Docker, Kubernetes, cloud environment, machine and deep learning, image analysis, Git.
 
-# Publications (1st author)
+## Publications (1st author)
 
 * Nelson RT, Avraham S , Shoemaker RC, May GD, Ware D, Gessler DDG. Simple Semantic Web Architecture and Protocol (SSWAP) for bioinformatics resource discovery and disparate data and service integration. BioData Mining 2010, 3:3 doi:10.1186/1756-0381-3-3
 
