@@ -2,11 +2,11 @@
 
 ## Professional Experience
 
-### HAZERA SEEDS, R&D DIVISION 	Mivhor Farm, ISRAEL 	2012–Present
+### HAZERA SEEDS, R&D DIVISION 	** Mivhor Farm, ISRAEL 	2012–Present **
 #### Scientific computing project leader
 Hands-on leader of scientific software development to facilitate genetic research and breeding of vegetable seeds. I support all R&D units incl. breeders, geneticists, laboratories and operations. I’m in charge of the entire software development life cycle, incl. analysis, design, coding, DevOps, deployment, implementation, user support and maintenance. Projects include machine and deep-learning based image analysis software, genetic and genomic data acquisition and analyses projects, laboratories management systems, web-based software etc.
 
-### BIO5 INSTITUTE, UNIVERSITY OF ARIZONA 	Tuscon, AZ, USA 	2010–2011
+### BIO5 INSTITUTE, UNIVERSITY OF ARIZONA 	** Tuscon, AZ, USA 	2010–2011 **
 #### Scientific information systems consultant / technical leader / developer
 Led development of a semantic analysis bioinformatics project for plant genetics research.
 
