@@ -11,7 +11,7 @@ Hands-on leader of scientific software development to facilitate genetic researc
 
 Led development of a semantic analysis bioinformatics project for plant genetics research.
 
-### Scientific IS technical project leader / senior developer / database administrator
+### Senior scientific software developer / database administrator
 #### COLD SPRING HARBOR LABORATORY	Cold Spring Harbor, NY, USA 	2002–2010
 Worked with a team of scientists developing advanced applications for bioinformatics research. 
 
