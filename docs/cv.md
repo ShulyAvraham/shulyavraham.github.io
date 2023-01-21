@@ -37,18 +37,18 @@ Developed financial & budgeting information systems and databases of the Israeli
 
 ## Education
 
-### Executive MBA in Financial Engineering and Banking
-The Hebrew University 	Jerusalem, ISRAEL    2011-2012
+#### Executive MBA in Financial Engineering and Banking
+##### The Hebrew University 	Jerusalem, ISRAEL    2011-2012
 	
-### M.S. Administrative science 
-Fairleigh Dickinson University 	New Jersey, USA 	1999–2000
+#### M.S. Administrative science 
+##### Fairleigh Dickinson University 	New Jersey, USA 	1999–2000
 
-### B.S. Computer science GPA
-Polytechnic University (NYU)	New York, NY, USA 	1997–2000
+#### B.S. Computer science GPA
+##### Polytechnic University (NYU)	New York, NY, USA 	1997–2000
  
-### Information systems design & analysis course	
-### Software development & programming course		
-MAMRAM, Center for Comp. & Information Systems Professions, Israeli Defense Forces 1992-1993
+#### Information systems design & analysis course	
+#### Software development & programming course		
+##### MAMRAM, Center for Comp. & Information Systems Professions, Israeli Defense Forces 1992-1993
 
 ## Technical expertise
 
