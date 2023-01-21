@@ -34,25 +34,24 @@ Developed financial & budgeting information systems and databases of the Israeli
 
 # Education
 
-### The Hebrew University 	Jerusalem, ISRAEL    2011-2012
-Executive MBA in Financial Engineering and Banking	
+### Executive MBA in Financial Engineering and Banking
+The Hebrew University 	Jerusalem, ISRAEL    2011-2012
+	
+### M.S. Administrative science 
+Fairleigh Dickinson University 	New Jersey, USA 	1999–2000
 
-### Fairleigh Dickinson University 	New Jersey, USA 	1999–2000
-M.S. Administrative science 
-
-### Polytechnic University (NYU)	New York, NY, USA 	1997–2000
-B.S. Computer science GPA 
-
-### MAMRAM, Center for Comp. & Information Systems Professions, Israeli Defense Forces
-Information systems design & analysis	Tel Aviv, Israel	1993
-Information technology programming		1992
-
+### B.S. Computer science GPA
+Polytechnic University (NYU)	New York, NY, USA 	1997–2000
+ 
+### Information systems design & analysis	Tel Aviv, Israel	1993
+### Information technology programming		1992
+MAMRAM, Center for Comp. & Information Systems Professions, Israeli Defense Forces
 
 # Technical expertise
 
-Various computer languages, e.g. Python, Perl, Java, C, C++, etc., currently developing mostly in Python for backend and web based languages such as HTML and JavaScript (React, Riot, etc.) for front end. 
-Database management of several systems, MongoDB, MySQL, Postgress, Oracle, SQLServer, MS Access etc. 
-DevOps, Linux, shell scripting, Docker, Kubernetes, cloud environment, machine and deep learning, image analysis, Git.
+* Various computer languages, e.g. Python, Perl, Java, C, C++, etc., currently developing mostly in Python for backend and web based languages such as HTML and JavaScript (React, Riot, etc.) for front end. 
+* Database management of several systems, MongoDB, MySQL, Postgress, Oracle, SQLServer, MS Access etc. 
+* DevOps, Linux, shell scripting, Docker, Kubernetes, cloud environment, machine and deep learning, image analysis, Git.
 
 # Publications (1st author)
 
