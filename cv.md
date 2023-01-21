@@ -12,7 +12,7 @@ Led development of a semantic analysis bioinformatics project for plant genetics
 Scientific IS technical project leader / senior developer / database administrator
 Worked with a team of scientists developing advanced applications for bioinformatics research. 
 
-## E-COMMERCE PARTNERS                         New York, NY, USA 	(intermittently) 2008–2009 
+## E-COMMERCE PARTNERS                         New York, NY, USA 	 2008–2009 
 E-Commerce solutions consultant / developer
 Provided consultation for e-commerce software development. Performed systems analysis, design, and development.
 
