@@ -2,36 +2,38 @@
 
 ## Professional Experience
 
-### HAZERA SEEDS, R&D DIVISION 	**Mivhor Farm, ISRAEL 	2012–Present**
-#### Scientific computing project leader
+### Scientific computing project leader
+#### HAZERA SEEDS, R&D DIVISION 	Mivhor Farm, ISRAEL 	2012–Present
 Hands-on leader of scientific software development to facilitate genetic research and breeding of vegetable seeds. I support all R&D units incl. breeders, geneticists, laboratories and operations. I’m in charge of the entire software development life cycle, incl. analysis, design, coding, DevOps, deployment, implementation, user support and maintenance. Projects include machine and deep-learning based image analysis software, genetic and genomic data acquisition and analyses projects, laboratories management systems, web-based software etc.
 
-### BIO5 INSTITUTE, UNIVERSITY OF ARIZONA 	** Tuscon, AZ, USA 	2010–2011 **
-#### Scientific information systems consultant / technical leader / developer
+### Scientific information systems consultant / technical leader / developer
+#### BIO5 INSTITUTE, UNIVERSITY OF ARIZONA 	 Tuscon, AZ, USA 	2010–2011 
+
 Led development of a semantic analysis bioinformatics project for plant genetics research.
 
-### COLD SPRING HARBOR LABORATORY	Cold Spring Harbor, NY, USA 	2002–2010
-#### Scientific IS technical project leader / senior developer / database administrator
+### Scientific IS technical project leader / senior developer / database administrator
+#### COLD SPRING HARBOR LABORATORY	Cold Spring Harbor, NY, USA 	2002–2010
 Worked with a team of scientists developing advanced applications for bioinformatics research. 
 
-### E-COMMERCE PARTNERS                         New York, NY, USA 	 2008–2009 
-#### E-Commerce solutions consultant / developer
+### E-Commerce solutions consultant / developer
+#### E-COMMERCE PARTNERS                         New York, NY, USA 	 2008–2009 
 Provided consultation for e-commerce software development. Performed systems analysis, design, and development.
 
-### YARD INTERACTIVE 	New York, NY, USA 	1999–2001
-#### Information systems and technology department manager / analyst / developer
+### Information systems and technology department manager / analyst / developer
+#### YARD INTERACTIVE 	New York, NY, USA 	1999–2001
 Led development of e-commerce applications. Supervised IS/IT personnel. Managed and coordinated projects. 
 
-### ISRAELI MINISTRY OF DEFENSE, MISSION TO THE US, New York, NY, USA	1997–1999
-#### Senior software analyst / developer / database administrator 
+### Senior software analyst / developer / database administrator 
+#### ISRAELI MINISTRY OF DEFENSE, MISSION TO THE US, New York, NY, USA	1997–1999
+
 Developed finance & procurement information systems for Israeli Ministry of Defense and USA government and vendors. 
 
-### ISRAEI MINISTRY OF DEFENSE	 Tel Aviv, Israel	1994–1997
-#### Software & database technical manager / analyst / designer / developer	
+### Software & database technical manager / analyst / designer / developer
+#### ISRAEI MINISTRY OF DEFENSE	 Tel Aviv, Israel	1994–1997
 Led development of finance & inventory IS for Israeli Ministry of Defense and military. Implemented and supervised secured electronic data interchange with US army and government.
 
-### ISRAELI NAVY DEFENSE FORCES 	Tel Aviv, Israel	1992–1994
-#### Software and database designer / developer
+### Software and database designer / developer
+#### ISRAELI NAVY DEFENSE FORCES 	Tel Aviv, Israel	1992–1994
 Developed financial & budgeting information systems and databases of the Israeli Navy.
 
 ## Education
