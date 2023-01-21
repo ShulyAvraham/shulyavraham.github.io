@@ -43,8 +43,8 @@ Fairleigh Dickinson University 	New Jersey, USA 	1999–2000
 ### B.S. Computer science GPA
 Polytechnic University (NYU)	New York, NY, USA 	1997–2000
  
-### Information systems design & analysis	Tel Aviv, Israel	1993
-### Information technology programming		1992
+### Information systems design & analysis course	Tel Aviv, Israel	1993
+### Software development course		1992
 MAMRAM, Center for Comp. & Information Systems Professions, Israeli Defense Forces
 
 # Technical expertise
