@@ -4,22 +4,27 @@
 
 ### Scientific computing project leader
 **HAZERA SEEDS, R&D DIVISION** 	*Mivhor Farm, ISRAEL 	2012–Present*
+
 Hands-on leader of scientific software development to facilitate genetic research and breeding of vegetable seeds. I support all R&D units incl. breeders, geneticists, laboratories and operations. I’m in charge of the entire software development life cycle, incl. analysis, design, coding, DevOps, deployment, implementation, user support and maintenance. Projects include machine and deep-learning based image analysis software, genetic and genomic data acquisition and analyses projects, laboratories management systems, web-based software etc.
 
 ### Scientific information systems consultant and developer
 **BIO5 INSTITUTE, UNIVERSITY OF ARIZONA** 	 *Tuscon, AZ, USA 	2010–2011* 
+
 Led development of a semantic analysis bioinformatics project for plant genetics research.
 
 ### Senior scientific software developer and database administrator
 **COLD SPRING HARBOR LABORATORY**	*Cold Spring Harbor, NY, USA 	2002–2010*
+
 Worked with a team of scientists developing advanced applications for bioinformatics research. 
 
 ### E-Commerce solutions consultant
 **E-COMMERCE PARTNERS**                         *New York, NY, USA 	 2008–2009* 
+
 Provided consultation for e-commerce software development. Performed systems analysis, design, and development.
 
 ### Information systems and technology department manager and systems analyst
 **YARD INTERACTIVE** 	*New York, NY, USA 	1999–2001*
+
 Led development of e-commerce applications. Supervised IS/IT personnel. Managed and coordinated projects. 
 
 ### Senior software analyst, developer and database administrator 
@@ -29,10 +34,12 @@ Developed finance & procurement information systems for Israeli Ministry of Defe
 
 ### Software & database analyst, designer and developer
 **ISRAEI MINISTRY OF DEFENSE**	 *Tel Aviv, Israel	1994–1997*
+
 Led development of finance & inventory IS for Israeli Ministry of Defense and military. Implemented and supervised secured electronic data interchange with US army and government.
 
 ### Software and database designer and developer
 **ISRAELI NAVY DEFENSE FORCES** 	*Tel Aviv, Israel	1992–1994*
+
 Developed financial & budgeting information systems and databases of the Israeli Navy.
 
 ## Education
